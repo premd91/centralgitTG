@@ -1,0 +1,3 @@
+mvn clean package
+git clone https://github.com/premd91/jenkinsfile-by-prem.git
+mvn clean
